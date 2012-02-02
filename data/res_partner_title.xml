@@ -38,5 +38,47 @@
             <field name="domain">contact</field>
         </record>
 
+        <record model="res.partner.title" id="ing">
+            <field name="name">Ingeniero</field>
+            <field name="shortcut">Ing.</field>
+            <field name="domain">contact</field>
+        </record>
+
+        <record model="res.partner.title" id="lic">
+            <field name="name">Licenciado</field>
+            <field name="shortcut">Lic.</field>
+            <field name="domain">contact</field>
+        </record>
+
+        <record model="res.partner.title" id="doc">
+            <field name="name">Doctor</field>
+            <field name="shortcut">Doc.</field>
+            <field name="domain">contact</field>
+        </record>
+
+        <record model="res.partner.title" id="med">
+            <field name="name">Médico</field>
+            <field name="shortcut">Med.</field>
+            <field name="domain">contact</field>
+        </record>
+
+        <record model="res.partner.title" id="phd">
+            <field name="name">Ph. Doctor</field>
+            <field name="shortcut">PhD.</field>
+            <field name="domain">contact</field>
+        </record>
+
+        <record model="res.partner.title" id="tec">
+            <field name="name">Técnico</field>
+            <field name="shortcut">Tec.</field>
+            <field name="domain">contact</field>
+        </record>
+
+        <record model="res.partner.title" id="coop">
+            <field name="name">Cooperativa</field>
+            <field name="shortcut">Coop.</field>
+            <field name="domain">partner</field>
+        </record>
+
     </data>
 </openerp>
