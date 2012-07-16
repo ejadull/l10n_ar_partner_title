@@ -1,9 +1,6 @@
-Módulo de localización Argentina
+Módulo de nombres y títulos para personas físicas y no físicas.
 
-Autores:
-    Luis Falcon <lfalcon@thymbra.com>
-    Bruno M. Villasanti <bvillasanti@thymbra.com>
+Incluye:
 
-Licencia: GPL-3
+ - Denominación de clientes, proveedores y contactos.
 
-(C) 2005 - present
