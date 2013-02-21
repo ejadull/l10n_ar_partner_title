@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name':     'Argentina - Nombre y títulos de personas físicas o no.',
-    'version':  '2.1',
+    'version':  '2.7.155',
     'author':   'OpenERP - Team de Localización Argentina',
     'category': 'Localization/Argentina',
     'website':  'https://launchpad.net/~openerp-l10n-ar-localization',
