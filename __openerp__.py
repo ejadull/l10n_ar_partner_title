@@ -18,29 +18,16 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-{
-    'name':     'Argentina - Nombre y títulos de personas físicas o no.',
-    'version':  '2.7.155',
-    'author':   'OpenERP - Team de Localización Argentina',
+{   'active': False,
+    'author': 'OpenERP - Team de Localizaci\xc3\xb3n Argentina',
     'category': 'Localization/Argentina',
-    'website':  'https://launchpad.net/~openerp-l10n-ar-localization',
-    'license':  'AGPL-3',
-    'description': """
-Módulo de nombres y títulos para personas físicas y no físicas.
-
-Incluye:
-
- - Denominación de clientes, proveedores y contactos.
-
-""",
-    'depends': [
-        'base',
-    ],
-    'init_xml': [],
     'demo_xml': [],
-    'update_xml': [
-        'data/res_partner_title.xml',
-    ],
-    'active': False,
+    'depends': ['base'],
+    'description': '\n\nM\xc3\xb3dulo de nombres y t\xc3\xadtulos para personas f\xc3\xadsicas y no f\xc3\xadsicas.\n\n\n\nIncluye:\n\n\n\n - Denominaci\xc3\xb3n de clientes, proveedores y contactos.\n\n\n\n',
+    'init_xml': [],
     'installable': True,
-}
+    'license': 'AGPL-3',
+    'name': 'Argentina - Nombre y t\xc3\xadtulos de personas f\xc3\xadsicas o no.',
+    'update_xml': ['data/res_partner_title.xml'],
+    'version': '2.7.246',
+    'website': 'https://launchpad.net/~openerp-l10n-ar-localization'}
